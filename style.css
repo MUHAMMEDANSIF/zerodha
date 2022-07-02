@@ -150,7 +150,7 @@ footer li:hover{
 
 /* to top button */
 .to-top{
-    background-color: white;
+    background-color: #666;
     position: fixed;
     bottom: 16px;
     right: 32px;
